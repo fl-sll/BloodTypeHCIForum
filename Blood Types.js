@@ -55,6 +55,7 @@ const GiveBlood = (donor,recipient) => {
     }
 }
 
+//examples
 GiveBlood("O+","A+");
 GiveBlood("A-","B-");
 GiveBlood("A-", "AB+");
